@@ -10,7 +10,7 @@ Es un problema de aprendizaje supervisado porque conocemos las etiquetas, lo que
 
 - Haz las transformaciones que necesites a los datos y desarrolla algún modelo.
 
-Creé un notebook llamado 'desafio_go_bravo' donde describo todos los pasos para construir el modelo. Utilicé un modelo de clasificación donde la variable de respuesta es 'Estatus_prestamo'.
+Creé un notebook llamado 'desafio_go_bravo.ipynb' donde describo todos los pasos para construir el modelo. Utilicé un modelo de clasificación donde la variable de respuesta es 'Estatus_prestamo'.
 
 En base a los resultados obtenidos
 
