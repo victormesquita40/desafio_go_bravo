@@ -15,6 +15,9 @@ Creé un notebook llamado 'desafio_go_bravo' donde describo todos los pasos para
 En base a los resultados obtenidos
 
 - ¿Cómo sabes que es un buen modelo?
+
 Para decidir si un modelo es bueno, utilizo métricas como precisión, recall, f1-score y matriz de confusión. Sin embargo, debido a que la muestra era muy pequeña, el modelo no clasificó tan bien, teniendo algunas medidas bajas para la clase cero (dinero prestado).
+
 - Si fueras el líder del área de crédito, ¿Sigues con tu estructura actual ó utilizas el modelo obtenido? ¿Por qué?
+
 Continuaría con el modelo actual y extraería una muestra más grande del conjunto de datos y luego crearía un modelo.
